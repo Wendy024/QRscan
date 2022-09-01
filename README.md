@@ -1,1 +1,1 @@
-Html and css QRscan project
+https://wendy024.github.io/QRscan/
