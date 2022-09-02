@@ -25,9 +25,10 @@
         width: 100%;
         border-radius: 10px;
     }
-    h3{
+    h1{
         text-align: center;
         font-family: 'Outfit', sans-serif;
+        font-size: 15px;
     }
     p{
         text-align: center;
@@ -60,11 +61,12 @@
         border-radius: 10px;
         
     }
-    h3{
+    h1{
         text-align: center;
         margin-left: 50px;
         margin-right: 50px;
         font-family: 'Outfit', sans-serif;
+        font-size: 15px;
         
 
     }
